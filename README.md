@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics and Machine Learning Projects**
 
-- 📫 How to reach me [Email](https://yentumipersis@gmail.com) and [LinkedIn](https://www.linkedin.com/in/persisyentumi)
+- 📫 How to reach me [Email](mailto:yentumipersis@gmail.com) and [LinkedIn](https://www.linkedin.com/in/persisyentumi)
 
 - 📄 Know about my experiences [My Resume](https://app.enhancv.com/share/7c46b222/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
